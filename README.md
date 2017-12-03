@@ -1,0 +1,2 @@
+# PTR
+Programmable time relay
